@@ -1,7 +1,6 @@
 # Employee Attrition Risk Analysis
 
-Healthcare workforce attrition analysis using SQL, Excel, and Tableau to identify retention risk drivers and recommend data-driven retention strategies.
-
+Healthcare workforce attrition analysis using SQL, Excel, and Tableau to identify key retention risk drivers and develop data-driven workforce retention strategies.
 ## Project Overview
 
 This project analyzes workforce data from a healthcare organization to identify the key drivers of employee attrition.
@@ -15,6 +14,18 @@ Key factors examined include:
 - manager tenure
 
 The goal of the analysis is to determine which factors contribute most strongly to employee turnover and identify opportunities to improve retention.
+
+## Business Problem
+
+Healthcare organizations often struggle with employee turnover, which increases recruitment costs, disrupts staffing stability, and impacts patient care quality. High attrition among clinical staff can place additional strain on teams and reduce continuity of care.
+
+The objective of this analysis was to identify the workforce factors most strongly associated with employee attrition and determine where retention strategies should be prioritized.
+
+## Dataset
+
+This analysis uses a workforce dataset containing employee demographic, compensation, and job-related attributes. The dataset includes variables such as department, job role, overtime status, monthly income, years at company, years with current manager, and attrition status.
+
+The data was used to explore relationships between employee characteristics and attrition patterns across roles, compensation levels, and workload indicators.
 
 ## Key Findings
 
@@ -35,17 +46,17 @@ The goal of the analysis is to determine which factors contribute most strongly 
 ## Dashboard
 
 ![Attrition Dashboard](attrition-dashboard.png)
-
+  
 Interactive Tableau Dashboard:  
-[View the Tableau Dashboard]([https://public.tableau.com/views/RentionRiskExecutiveOverview-Milestone4Project/Dashboard1](https://public.tableau.com/views/RentionRiskExecutiveOverview-Milestone4Project/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View the Tableau Dashboard](https://public.tableau.com/views/RentionRiskExecutiveOverview-Milestone4Project/Dashboard1)
 
 
 ## Tools Used
 
-- SQL
-- Excel
-- Tableau
-- Gamma
+• SQL – data exploration and analysis  
+• Excel – data cleaning and preprocessing  
+• Tableau – dashboard development and visualization  
+• Gamma – presentation and stakeholder reporting
 
 ## Project Structure
 
