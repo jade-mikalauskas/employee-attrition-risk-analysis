@@ -35,7 +35,10 @@ The goal of the analysis is to determine which factors contribute most strongly 
 ## Dashboard
 
 Interactive Tableau dashboard:
-(https://public.tableau.com/views/RentionRiskExecutiveOverview-Milestone4Project/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/RentionRiskExecutiveOverview-Milestone4Project/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+![Attrition Dashboard](<img width="980" height="630" alt="Dashboard" src="https://github.com/user-attachments/assets/d361c56d-c9ad-4ee8-bcb9-c1833cc9e8c4" />
+)
 
 ## Tools Used
 
